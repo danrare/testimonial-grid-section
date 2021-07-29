@@ -88,7 +88,6 @@ In the future i will like to focus flex-box, responsive design, css arts and css
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Dan rare](https://www.frontendmentor.io/profile/Danrare)
 - Twitter - [@Danrare1](https://www.twitter.com/Danrare1)
 
