@@ -1,0 +1,19 @@
+/* mobile-size */
+@media(max-width:768px){
+    #testimonials{
+        grid-template-columns:  250px;
+        grid-template-rows: repeat(5, auto);
+    }
+    #testimonials div{
+        grid-column:1/5;
+        grid-row: auto;
+    }
+
+    img{
+        width:35px;
+    }
+
+    .attribution{
+        line-height: 1.5;
+    }
+}
