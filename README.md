@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [testimonial-grid-section-livesite](https://danrare.github.io/testimonial-grid-section/)
 
 ## My process
 First of all I grouped all the testimonials in to a section (id=testimonials) which served as the parent container and then created a div for each testimonial grid which served as the child container. In each of the child container a div section was created to container the individual profiles (img, name and status) in order to group them and make the layout easy.
